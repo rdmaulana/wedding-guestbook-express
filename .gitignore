@@ -104,7 +104,7 @@ ehthumbs.db
 # *.json
 *.pug
 *.scss
-*.MD
+# *.MD
 .env
 .PHONY
 .nyc_output
